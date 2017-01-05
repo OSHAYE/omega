@@ -1,0 +1,32 @@
+#intro {
+    background-size: cover;
+    width: auto;
+    text-align: center;
+}
+
+#header {
+   text-align: center;
+    color: white;
+    background-image: url("http://travelchannel.sndimg.com/content/dam/images/travel/fullset/2015/10/26/jamaican-cuisine-jerk-chicken-on-grill.jpg.rend.tccom.616.462.jpeg");
+    height: 200px;
+    width: 400px;
+    background-size: cover;
+    padding:10px,50px,10px,400px;
+}
+
+p {
+    color: #BD0966;
+}
+
+body {
+    background-image: url("http://media.istockphoto.com/photos/gold-background-picture-id506016568?k=6&m=506016568&s=170667a&w=0&h=7cPFQgC6I1_ditZBERon8ymra-XYmtscmZgKg8N6SBE=");
+   
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    position: relative;
+    padding: 5px;
+}
+
